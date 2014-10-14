@@ -1,0 +1,48 @@
+---
+
+btsync_keys:
+    private: >
+        ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
+        DQYJKoZIhvcNAQEBBQAEggEACZpfcXuRI+CGDu93p8i6CR/PQ9I0YSxnoWTf
+        rtCJ/TXB7vcGwAAFb89mzQS7gYFWnNLkr5gLN6LZh459VId/fweYEndi0/4J
+        zwH+y+eJgBywaAvIgHKHgUr/t7a9ZiDTG22TkDuomGlZnx0vRd09DmIAwAum
+        tfIYY7fqzFStvePl/Tt1f8xBhb3B8rnDL4dmeToKGapnBju120DlrdWFv6ea
+        wqG7IU32mxFu+1mRs1UXlzHIhQ6JdYTxPnqlCjtqJty20GDqofbMk97mKPo7
+        fdrZIGomf1dYEjIY/tDA0NIGyzgWSIY52xIClij4tG6nKzneaAgZ/LGRB3mn
+        c8wC0TBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBDBCKiQKN+l/TNRuE32
+        BqYfgDCUqGuwA16zAgl4FIb1xPjPKaAU7afiMmmRAxu5QMTcqmlgP6v7tcCj
+        gsSYtjXt8/I=]
+    public_misc: >
+        ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
+        DQYJKoZIhvcNAQEBBQAEggEAL07LGTFTxqWubfxXuRjKnp2Vp43Ns1gvscKO
+        JB2C7l94+IRzEPwl2acw1SXnqj25+9LRnUSfvJLGktj7JLEe0rXTZV52vM9H
+        SxdV+sISrN4EwQ+tuKoFo2EEMJF5AS6q02lqsmg3LoN7huPg7O12AjFzjwxw
+        EnkulM9mEPM+oC9cF7C7eI1peOFas0dTcerPVpmSfCjBdkLm8Lx8UgU/q1ZG
+        uqO/XyMT9T8+sp9IgSXL0ZjN328/dYAacEnO2apY8z8NWrvi4I9SQ9QWZvI0
+        zcX9rox1nOMQgCypIU5m4G0RsylN550ltL76uhoy/+BV4FiopO4/mQBDV5//
+        DacFsDBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBA6bEzwDkUdDHxmhQsq
+        +4kQgDAMZlNsqppu4s7Wbey8nFGbYlyeElTqOE24/zps1i4QZeeTuimo6kk5
+        D+ril1wsDQs=]
+
+    public_packages: >
+        ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
+        DQYJKoZIhvcNAQEBBQAEggEAM+RYak7ZQ7LzzsPiHUIoK4gElaYSdwLRwH04
+        WKQeA1yvA1BrHXxgVGBUs/O34MskiLWIHaVSMQkk8kX4L5TcjJEIEvE3TYSO
+        FVix5cwCiDf5zjoqXMbLAVZ+F+YmS/JV8EjIZNni+wuVdjMk0VjQUw++baNb
+        l02YY2TdzKcRWnityvlOeVaDeLYS3mKJdlyVtGZM2plgf7ZgZ3k7+HORwKvD
+        2rrgUG3MCt5VHMgyBcaCJjv67SdqCksXOR4z+ECCdZENvUy7IijqCZD2goow
+        y43lokEsx1hbU0ANPel2q9zTGnGbJyCHlYxrgyf6MBJRsgciYqbE0+87XbZM
+        j8ZTpjBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBBOeH3JgqxkSQ6c2zCq
+        yZRkgDDKEhfHfLJOUBqzhNbuO4pjy/02MaHmDDz+ojvRZ4/cfsYh5ebHiNT0
+        UHuPteWhrB8=]
+    repo: >
+        ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
+        DQYJKoZIhvcNAQEBBQAEggEAodua0PqYpFZtfuJieIKMXRQy7fb7W006vELw
+        aaj4upIMyXzgiyqlytzb3+NActbHKwXKwKSY+P/taatNdFFrQYLk0HA+LPq4
+        uOJvhMqbRySWAQF9fBrn6d68a4Z/Odu2heJUorIVW7cO6Aeph3Yb6dDFANFL
+        HFFScXrteYwfNjTk1Ogy/G0qTs7kA+Yi5Lbj8Jc6tQcWguoMhTEOfi7F7xQ6
+        5qVE3t7kcJUxIrTjFr7lldG0nY1pEeGJ+h636Rf6E2z8kJQTtja+RSdJ5Aw0
+        AB7nW4qr1iLSWCo4/HDUXW6lVLpVQ3LcFMe/PILhr/6s0hKMutL84FZxsvjf
+        00GbEjBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBDzdi53GkrWbwuW8ECa
+        DTVTgDArib6YmyAvbe3X6EOtLYEi8lrNW3o5KD7M+lKPIBuhOnIluEmgiALU
+        EW1gAN9QEkw=]
