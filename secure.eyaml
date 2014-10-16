@@ -37,15 +37,16 @@ btsync_keys:
         UHuPteWhrB8=]
     repo: >
         ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
-        DQYJKoZIhvcNAQEBBQAEggEAodua0PqYpFZtfuJieIKMXRQy7fb7W006vELw
-        aaj4upIMyXzgiyqlytzb3+NActbHKwXKwKSY+P/taatNdFFrQYLk0HA+LPq4
-        uOJvhMqbRySWAQF9fBrn6d68a4Z/Odu2heJUorIVW7cO6Aeph3Yb6dDFANFL
-        HFFScXrteYwfNjTk1Ogy/G0qTs7kA+Yi5Lbj8Jc6tQcWguoMhTEOfi7F7xQ6
-        5qVE3t7kcJUxIrTjFr7lldG0nY1pEeGJ+h636Rf6E2z8kJQTtja+RSdJ5Aw0
-        AB7nW4qr1iLSWCo4/HDUXW6lVLpVQ3LcFMe/PILhr/6s0hKMutL84FZxsvjf
-        00GbEjBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBDzdi53GkrWbwuW8ECa
-        DTVTgDArib6YmyAvbe3X6EOtLYEi8lrNW3o5KD7M+lKPIBuhOnIluEmgiALU
-        EW1gAN9QEkw=]
+        DQYJKoZIhvcNAQEBBQAEggEAIfu9/t5rigzaOA+LHG9WWzkqfTTejfVU1cx0
+        NwONvllxlCcslVLrN22NH9ICneitthISLSCWdEOD9aax+c+E/+D3Jb/aWx1J
+        FYh9BAsWjvWytApn+9uE5GmI46UuuEMYwZEJjOXUIbummL9A9M3m0aURNihq
+        XFtIsjvlVelj4Hkbuc+BzW6qVW9wGKrLEYYck8/lqBIkaI/L0XdjFS+bZXsI
+        orqYXtiOOxQS8hHapmN9snPcvjxlwXgNblu5kql0vCYr44tqK0t46uSLHMoO
+        5fEc4xtq7hKChYa0aSBQY7HYrtl7kUW6bEREuLpYHBQgW5LDgwlk0bdG7HLH
+        UO0dPjBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBAwk+ivZrg4nSeDfnt7
+        aB/fgDCEH2TAmhYLdyyKkVGFW2LmFYNP0duYzkbZ4flLsF5dPadUs43qQiHx
+        T5Ut4cjQ6to=]
+
 
 httpd_private_keys:
     abachi.dray.be: >
