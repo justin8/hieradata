@@ -14,6 +14,17 @@ ghostpath_auth: >
 
 
 btsync_keys:
+    public: >
+        ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
+        DQYJKoZIhvcNAQEBBQAEggEAQnvEGSJbmgAZyNH9ZGCY7dKCyOxDvxNcab/s
+        RndO2FPGr+cPo/RnhStrSUrBFG6rw47VmTGRFiaIlAOYz+niWUVJLIrJU7q2
+        OckhrdAE14NZcgcoyjPg4/PJiahhSQV6sh8vENv/4ofydoFvK69sOZzxBLlh
+        s8kMWRtI06+RcG/FIboGPoMP8pq5gPdkHHo/o6R8SVE7poKu+cpALdAs/fiL
+        Ep5HWMHFOc19+Hs2oHtJbbdedH+gVYrG3z+VF2Gz6cMcC8nODktkVKxJNnM+
+        urKFTv+3vlBSduL7wsuqHPtyvhLFocW1koI5pybbcx9Nvz26g6rXCmW2xY+a
+        x8DOLTBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBDgrV9M40Yp+PvLobKA
+        ntyQgDDcldaq0EbQO2Bl6DCn18cjzPcryq5a6+lKJWZeGMir2KaJththhbI3
+        5/lCCVYRumo=]
     repo: >
         ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
         DQYJKoZIhvcNAQEBBQAEggEAIfu9/t5rigzaOA+LHG9WWzkqfTTejfVU1cx0
