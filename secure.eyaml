@@ -36,6 +36,17 @@ btsync_keys:
         UO0dPjBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBAwk+ivZrg4nSeDfnt7
         aB/fgDCEH2TAmhYLdyyKkVGFW2LmFYNP0duYzkbZ4flLsF5dPadUs43qQiHx
         T5Ut4cjQ6to=]
+    repo_ro: >
+        ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
+        DQYJKoZIhvcNAQEBBQAEggEAlRfj2qmjmLtNN/Wbmezcs7xZfQbzCkD1L95U
+        0lWVaJGcAWNH18i1mRJ7qeYz0RaiQqZsm/5FfUGK6JYqP7tfrl6fI6UqJsQ9
+        +MTs2YBUj7doqMqwMXQkPvOC4W+/Bb6DauF0cy3deyt+97NoyLEZLrsuhTWP
+        FzWEAIIX2VHgf3/iraML5QDkaOc4sOpnAX2LqG++L6W+jxOpRAn2NTOA7Q2y
+        WC9Zx1huDUmLjgDuDR2KIvmL01Zy04dJGnSg2I5u49JkBqsHRY9l47ehtm1i
+        Cqlop1g8jNjZk5olPvJTWUfpvQe8CDUUBs1RTS8+hUM3TIrUAYEs4z4MyRtK
+        bedL2DBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBBEQHg21BJmhGokWOtW
+        S3gPgDANX79vKaTor7MQ/ymPtsOv6HVeFYoP64dxUN1AL0j65k4EMTH30f75
+        b53udr+2hwI=]
 
 
 openvpn_key: >
