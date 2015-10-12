@@ -12,19 +12,17 @@ ghostpath_auth: >
     XXLrgDC6Wvwn3G8qw5xMfKGF5vAo6FLiMcUzb0zC8XiffjjJkJfPlkMnHpwa
     a2nqkJBdNUM=]
 
-blog:
-    pass: >
-        ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
-        DQYJKoZIhvcNAQEBBQAEggEAslO/APgw3J0/Zzpyym3aMycHD+1k20D6mrnh
-        MA/9InOYZs13bl60/GKVjwBdkINaaV1Qu5wwPynURO+Ungyau63qi5LF6R5W
-        CJfQgp1TtzzwR+7jcEkYWwnK8pUFKWFPgubiPyPJSojsA/ir+Yw00vhjvqrf
-        HMab5At1Agdni0mgQYKyAGOaFz0H9yDxL5glbjhGCatyqjq4Bu/2Xh49rjGZ
-        yzQCW4OnJFU0h64L/+Y0ZwlpDr/1nNhCU5wR6prdectC8tMjcA/8+ApaaJSR
-        6bdnNAhhnfctcN0zkId9rjfl3J4rA5p+oRZSZhMi84deQpJ2lcfhYcr2P4K9
-        UWo3iTBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBCzjFkGr7/Av7ykREyy
-        WMl4gDDatWLA0aaLrwJFsMteeF9N4R/VpOzyx7ukUyR/UW0zn/oIXtFdrXgc
-        KiW7CCuSz9U=]
-
+blog_pass: >
+    ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
+    DQYJKoZIhvcNAQEBBQAEggEAslO/APgw3J0/Zzpyym3aMycHD+1k20D6mrnh
+    MA/9InOYZs13bl60/GKVjwBdkINaaV1Qu5wwPynURO+Ungyau63qi5LF6R5W
+    CJfQgp1TtzzwR+7jcEkYWwnK8pUFKWFPgubiPyPJSojsA/ir+Yw00vhjvqrf
+    HMab5At1Agdni0mgQYKyAGOaFz0H9yDxL5glbjhGCatyqjq4Bu/2Xh49rjGZ
+    yzQCW4OnJFU0h64L/+Y0ZwlpDr/1nNhCU5wR6prdectC8tMjcA/8+ApaaJSR
+    6bdnNAhhnfctcN0zkId9rjfl3J4rA5p+oRZSZhMi84deQpJ2lcfhYcr2P4K9
+    UWo3iTBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBCzjFkGr7/Av7ykREyy
+    WMl4gDDatWLA0aaLrwJFsMteeF9N4R/VpOzyx7ukUyR/UW0zn/oIXtFdrXgc
+    KiW7CCuSz9U=]
 
 
 btsync_keys:
