@@ -24,6 +24,17 @@ blog_pass: >
     WMl4gDDatWLA0aaLrwJFsMteeF9N4R/VpOzyx7ukUyR/UW0zn/oIXtFdrXgc
     KiW7CCuSz9U=]
 
+smtp_sasl_password_maps: >
+    ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEw
+    DQYJKoZIhvcNAQEBBQAEggEAgQFHhMx5gVU0uVh6ZFd37HkFFoh1KSuCJmDn
+    pq8D7qZyKt5xVghAhe30/dNtO6a9QZEV57JmsesX6Z/fdpXcdnsqnfHKPSS5
+    YaZSlG8/tfN6MfDV9DZMcwU+ZAyNlyUa2YpaBmoFotHdtJqcd7u1j+uuoCzF
+    VlytvSw1eZK6o8ki3ZuY67xM5KBvBFy7psPX65031h6a6WbtEWMCpbYrDgKf
+    jDN4ZvtuaJAgwPJ4lobDyNf/gxFVCLFjLMHHOGB8auTp+m22EGCYh//Dssf1
+    aoD0HrlA5ypAgje8SNHEkiLoKkMvN+BivoDBF1nAP4h41MFVcN0Yjmz6t9GI
+    8t4SIjBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBCEbw4QI0eB/39jINVr
+    qYuMgDDLERhU/vDUjG7sudtA2G/4yXH4SMKV6xSh7SdOEYEfOCb9x6EJVmDs
+    47bs/D8joFU=]
 
 btsync_keys:
     public: >
